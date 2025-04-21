@@ -1,0 +1,9 @@
+[package]
+name = "self_signal"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nannou = "0.18"
+cpal = "0.15"
+fundsp = "0.15"
